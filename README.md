@@ -6,30 +6,55 @@
 <p align="center">
   <img src="https://media.tenor.com/MHCTMZxoN60AAAAd/kuromi-sanrio.gif"/>
 </p>
-### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-<br />
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-<br />
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-<br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### About Me 🚀
+🌱 I’m a Student at Northeastern University studying in Computer Science & is committing to be a Full stack developer. </br>
+👨‍💻  I am passionate about Cloud Computing/Distributed Systems/Mobile Development/Web Dev & I enjoy learning cool&new things. </br>
 
-## ✨ Streak Stats
+### My Experiences 🙌
+- [Software Engineer Intern at Vanguard Group]  - (June'23-Present)
+- [Software Engineer Intern at Schrodinger] - (Feb'23-May'23)
 
-| Stats    | Streak    |
-| :---: | :---: |
-|<a href="https://github.com/chensiyingcrystal"><img alt="chensiyingcrystal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chensiyingcrystal&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=chensiyingcrystal&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="chensiyingcrystalStreak"/>|
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> My GitHub History!
 
-## 🌃 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chensiyingcrystal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chensiyingcrystal&count_private=true&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chensiyingcrystal&hide=TeX&layout=compact&theme=dark#gh-dark-mode-only"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chensiyingcrystal&theme=onedark"/>
+  <img src="https://stats.quine.sh/thatsmeadarsh/github?theme=dark" />
+  <img src="https://stats.quine.sh/thatsmeadarsh/topics-over-time?theme=dark" />
+</p>
 
+## 🔗 Let's Connect
+<p align="center">
+  <a href="https://chensiyingcrystal.github.io/chensiying.github.io/" target="_blank">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/siyingchencrystal/" target="_blank">
+    <img height="50" src="https://image.similarpng.com/very-thumbnail/2020/04/LinkedIn-logo-icon-social-media-hand-drawn-png.png"/>
+  </a>
+  <a href="https://www.instagram.com/chensiyingcrystal/" target="_blank">
+    <img height="50" src="https://image.similarpng.com/very-thumbnail/2020/04/Instagram-logo-icon-social-media-hand-drawn-png.png"/>
+  </a>
+</p>
+
+
+## <img src= "https://media.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif" width="30px" height="30px"> Technologies
+
+### Languages
+<p align="left">
+   <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,javascript,typescript,html,css,shell,sql"/>
+</p>
+
+### Cloud/Databases
+<p align="left">
+   <img src="https://skillicons.dev/icons?i=googlecloud,aws,kubernetes,docker,grafana,jenkins,kafka,firebase,mongo,redis"/>
+</p>
+
+### Tools/Frameworks/Libraries
+<p align="left">
+   <img src="https://skillicons.dev/icons?i=spring,androidstudio,git,react,nextjs,nodejs,express"/>
+</p>
+
+<br>
 
